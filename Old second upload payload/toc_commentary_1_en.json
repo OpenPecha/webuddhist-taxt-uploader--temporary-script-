@@ -1,0 +1,102 @@
+{
+  "id": null,
+  "text_id": "d227c1eb-68cf-4dca-ba4b-81f4d45bd1b0",
+  "sections": [
+    {
+      "id": "5481a974-64b1-4430-927a-e16cf2eca3e8",
+      "title": "1",
+      "section_number": 1,
+      "parent_id": null,
+      "segments": [
+        {
+          "segment_id": "0b207064-3b83-4656-aca4-8e6337c661b9",
+          "segment_number": 1
+        },
+        {
+          "segment_id": "1505e4e5-bf90-4357-9642-52a7ebf3eb06",
+          "segment_number": 2
+        },
+        {
+          "segment_id": "23234a7b-4e89-4f73-92d9-ea904e753b81",
+          "segment_number": 3
+        },
+        {
+          "segment_id": "246919ec-eaf0-4980-bd7c-2bb73a2a31b0",
+          "segment_number": 4
+        },
+        {
+          "segment_id": "2f7db46a-042e-4e4d-a908-d219911a936c",
+          "segment_number": 5
+        },
+        {
+          "segment_id": "8c7ef8fc-de9a-494b-b7d4-a9637160b611",
+          "segment_number": 6
+        },
+        {
+          "segment_id": "3bf91ce5-80d0-42db-b835-02853dbad6e6",
+          "segment_number": 7
+        },
+        {
+          "segment_id": "0db4f970-185f-42fd-89b3-521cfe7fbf73",
+          "segment_number": 8
+        },
+        {
+          "segment_id": "5e68d806-62fc-4198-af34-724f01572439",
+          "segment_number": 9
+        },
+        {
+          "segment_id": "21d9471f-43a9-4404-ade4-e7048832bfe5",
+          "segment_number": 10
+        },
+        {
+          "segment_id": "4ba57f13-a959-4835-ac10-0155ed26dce5",
+          "segment_number": 11
+        },
+        {
+          "segment_id": "bc37c4b2-48a1-4ba0-8fd7-ccadbcab52a4",
+          "segment_number": 12
+        },
+        {
+          "segment_id": "806d1e3f-db0e-48e8-b903-d9b335d47550",
+          "segment_number": 13
+        },
+        {
+          "segment_id": "a3825020-6799-40ab-9e07-aa67fe716891",
+          "segment_number": 14
+        },
+        {
+          "segment_id": "ec946a48-d880-4204-beb4-188be5626f5b",
+          "segment_number": 15
+        },
+        {
+          "segment_id": "558c8e9d-2e69-4169-bdce-6086a8934eb3",
+          "segment_number": 16
+        },
+        {
+          "segment_id": "10cae57a-0d77-45a7-b76d-c7ee4987e61b",
+          "segment_number": 17
+        },
+        {
+          "segment_id": "b8f8cb3d-f887-4c38-95b5-924ba87bfe16",
+          "segment_number": 18
+        },
+        {
+          "segment_id": "34fc9267-ecf9-4285-af92-e5b56e0d2757",
+          "segment_number": 19
+        },
+        {
+          "segment_id": "c5a0b08f-2756-41e1-9791-e1bdf65d0e70",
+          "segment_number": 20
+        },
+        {
+          "segment_id": "663bb417-7ce1-45ac-ae66-4fca85f1bdab",
+          "segment_number": 21
+        }
+      ],
+      "sections": null,
+      "created_date": null,
+      "updated_date": null,
+      "published_date": null
+    }
+  ]
+}

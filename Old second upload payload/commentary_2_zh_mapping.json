@@ -1,0 +1,508 @@
+{
+  "text_mappings": [
+    {
+      "text_id": "b2a5f75c-6c61-4c7a-a9b9-f311dab33c39",
+      "segment_id": "65314878-9d6b-4069-9cb2-4bc15a3f43be",
+      "mappings": [
+        {
+          "parent_text_id": "85eedd68-d56e-4086-bf0d-fd46cf9d0dfc",
+          "segments": [
+            "81ba4a76-3395-4cfc-a38a-0a35ddc54ca1"
+          ]
+        },
+        {
+          "parent_text_id": "f6d18089-518b-4720-b6dc-47c33e2df1df",
+          "segments": [
+            "65a73fe9-9253-47be-a391-991f87eeb1a1"
+          ]
+        },
+        {
+          "parent_text_id": "c64d4e76-94df-403b-aad5-48b79a530099",
+          "segments": [
+            "24844c0e-83ba-4087-9c28-c1d17f194fbd"
+          ]
+        }
+      ]
+    },
+    {
+      "text_id": "b2a5f75c-6c61-4c7a-a9b9-f311dab33c39",
+      "segment_id": "6ddf2a3a-7eee-475a-8088-b07b6b7535be",
+      "mappings": [
+        {
+          "parent_text_id": "85eedd68-d56e-4086-bf0d-fd46cf9d0dfc",
+          "segments": [
+            "073b1858-aef8-4593-9216-ac8b9918c979"
+          ]
+        },
+        {
+          "parent_text_id": "f6d18089-518b-4720-b6dc-47c33e2df1df",
+          "segments": [
+            "b5b47ebb-c922-4801-b3b0-a1dab988a6a0"
+          ]
+        },
+        {
+          "parent_text_id": "c64d4e76-94df-403b-aad5-48b79a530099",
+          "segments": [
+            "ec6d9d54-0fec-4ad4-859e-c5ec49339635"
+          ]
+        }
+      ]
+    },
+    {
+      "text_id": "b2a5f75c-6c61-4c7a-a9b9-f311dab33c39",
+      "segment_id": "ecbc309b-8277-44f3-84e0-ddabe5ebcdc6",
+      "mappings": [
+        {
+          "parent_text_id": "85eedd68-d56e-4086-bf0d-fd46cf9d0dfc",
+          "segments": [
+            "9ed3b70d-3a2d-4104-b7b8-605e50785a44"
+          ]
+        },
+        {
+          "parent_text_id": "f6d18089-518b-4720-b6dc-47c33e2df1df",
+          "segments": [
+            "853307ce-a470-48b4-a54d-742c9ee21a14"
+          ]
+        },
+        {
+          "parent_text_id": "c64d4e76-94df-403b-aad5-48b79a530099",
+          "segments": [
+            "43b4441d-f531-4646-8e28-5cc206115b24"
+          ]
+        }
+      ]
+    },
+    {
+      "text_id": "b2a5f75c-6c61-4c7a-a9b9-f311dab33c39",
+      "segment_id": "8c8b851f-ad97-4ca0-ace0-051068b07986",
+      "mappings": [
+        {
+          "parent_text_id": "85eedd68-d56e-4086-bf0d-fd46cf9d0dfc",
+          "segments": [
+            "475292d1-b748-4d8f-9166-3576ca37fef3"
+          ]
+        },
+        {
+          "parent_text_id": "f6d18089-518b-4720-b6dc-47c33e2df1df",
+          "segments": [
+            "312e9fbf-959b-4a4a-b344-768c5dddde42"
+          ]
+        },
+        {
+          "parent_text_id": "c64d4e76-94df-403b-aad5-48b79a530099",
+          "segments": [
+            "d92ac362-e3cc-4119-a1b3-f4b1836e442f"
+          ]
+        }
+      ]
+    },
+    {
+      "text_id": "b2a5f75c-6c61-4c7a-a9b9-f311dab33c39",
+      "segment_id": "fa645c16-a161-40e7-abf2-da479f3f501b",
+      "mappings": [
+        {
+          "parent_text_id": "85eedd68-d56e-4086-bf0d-fd46cf9d0dfc",
+          "segments": [
+            "4360b379-b630-404c-a6cd-4173036cbc45"
+          ]
+        },
+        {
+          "parent_text_id": "f6d18089-518b-4720-b6dc-47c33e2df1df",
+          "segments": [
+            "e3bb36fa-7c38-4547-846e-c07afed62308"
+          ]
+        },
+        {
+          "parent_text_id": "c64d4e76-94df-403b-aad5-48b79a530099",
+          "segments": [
+            "d0910ee7-c351-4bd8-b4b1-675ab1eb2a25"
+          ]
+        }
+      ]
+    },
+    {
+      "text_id": "b2a5f75c-6c61-4c7a-a9b9-f311dab33c39",
+      "segment_id": "6d1d3189-8379-4001-ab64-d9f8c4f6a7a2",
+      "mappings": [
+        {
+          "parent_text_id": "85eedd68-d56e-4086-bf0d-fd46cf9d0dfc",
+          "segments": [
+            "44468dd3-2693-411b-8ac8-2b1d2018da0a"
+          ]
+        },
+        {
+          "parent_text_id": "f6d18089-518b-4720-b6dc-47c33e2df1df",
+          "segments": [
+            "3876b7f8-7649-4770-b4f2-4033fec8365e"
+          ]
+        },
+        {
+          "parent_text_id": "c64d4e76-94df-403b-aad5-48b79a530099",
+          "segments": [
+            "05bf3a86-9491-48ee-99b8-290a42c062e4"
+          ]
+        }
+      ]
+    },
+    {
+      "text_id": "b2a5f75c-6c61-4c7a-a9b9-f311dab33c39",
+      "segment_id": "05f79a15-de06-40aa-93a3-2b22c32ab017",
+      "mappings": [
+        {
+          "parent_text_id": "85eedd68-d56e-4086-bf0d-fd46cf9d0dfc",
+          "segments": [
+            "483cd518-8b78-4292-9465-c4f092bd3a02"
+          ]
+        },
+        {
+          "parent_text_id": "f6d18089-518b-4720-b6dc-47c33e2df1df",
+          "segments": [
+            "5524af10-9e06-4cc7-8480-adf6359525c0"
+          ]
+        },
+        {
+          "parent_text_id": "c64d4e76-94df-403b-aad5-48b79a530099",
+          "segments": [
+            "f51025ef-eef4-41f6-b955-850f332702fb"
+          ]
+        }
+      ]
+    },
+    {
+      "text_id": "b2a5f75c-6c61-4c7a-a9b9-f311dab33c39",
+      "segment_id": "cd19de22-d18c-4b63-b233-f670b20b4981",
+      "mappings": [
+        {
+          "parent_text_id": "85eedd68-d56e-4086-bf0d-fd46cf9d0dfc",
+          "segments": [
+            "32a9f7c2-5b5d-4f7e-b6a4-37fc838c4c60"
+          ]
+        },
+        {
+          "parent_text_id": "f6d18089-518b-4720-b6dc-47c33e2df1df",
+          "segments": [
+            "88bc855d-345d-4186-88b6-720a78e37295"
+          ]
+        },
+        {
+          "parent_text_id": "c64d4e76-94df-403b-aad5-48b79a530099",
+          "segments": [
+            "a1f3d7eb-3c10-492b-a885-420cf2387894"
+          ]
+        }
+      ]
+    },
+    {
+      "text_id": "b2a5f75c-6c61-4c7a-a9b9-f311dab33c39",
+      "segment_id": "abf4555d-b315-4924-aa50-33ee7847be48",
+      "mappings": [
+        {
+          "parent_text_id": "85eedd68-d56e-4086-bf0d-fd46cf9d0dfc",
+          "segments": [
+            "f919074f-fe2c-48d8-b7b4-fff66856192f"
+          ]
+        },
+        {
+          "parent_text_id": "f6d18089-518b-4720-b6dc-47c33e2df1df",
+          "segments": [
+            "bbb20784-c610-4f9b-877c-948e020360cb"
+          ]
+        },
+        {
+          "parent_text_id": "c64d4e76-94df-403b-aad5-48b79a530099",
+          "segments": [
+            "25a81f2e-c371-439a-a8d3-5c063c00da14"
+          ]
+        }
+      ]
+    },
+    {
+      "text_id": "b2a5f75c-6c61-4c7a-a9b9-f311dab33c39",
+      "segment_id": "1dbe3e99-f839-403e-a792-8f28daa3f13b",
+      "mappings": [
+        {
+          "parent_text_id": "85eedd68-d56e-4086-bf0d-fd46cf9d0dfc",
+          "segments": [
+            "3cd06248-afad-4cc1-b4b3-9548ab1aa472"
+          ]
+        },
+        {
+          "parent_text_id": "f6d18089-518b-4720-b6dc-47c33e2df1df",
+          "segments": [
+            "fed81fcd-339a-4c49-85e1-e5be3f1b08f9"
+          ]
+        },
+        {
+          "parent_text_id": "c64d4e76-94df-403b-aad5-48b79a530099",
+          "segments": [
+            "c83cffc4-1ab6-4bcc-806a-233819babfe7"
+          ]
+        }
+      ]
+    },
+    {
+      "text_id": "b2a5f75c-6c61-4c7a-a9b9-f311dab33c39",
+      "segment_id": "297a4449-0ebf-4356-8ae3-d20fdfc2e41d",
+      "mappings": [
+        {
+          "parent_text_id": "85eedd68-d56e-4086-bf0d-fd46cf9d0dfc",
+          "segments": [
+            "196b5281-1e00-4560-b2dc-fc7d8d446c63"
+          ]
+        },
+        {
+          "parent_text_id": "f6d18089-518b-4720-b6dc-47c33e2df1df",
+          "segments": [
+            "02ae9c66-c445-466f-b635-154445f3771f"
+          ]
+        },
+        {
+          "parent_text_id": "c64d4e76-94df-403b-aad5-48b79a530099",
+          "segments": [
+            "fe15ce2e-20a3-4b1e-81ea-26446f04122a"
+          ]
+        }
+      ]
+    },
+    {
+      "text_id": "b2a5f75c-6c61-4c7a-a9b9-f311dab33c39",
+      "segment_id": "017b072b-e3a1-4f91-85d7-d3cd4d48598a",
+      "mappings": [
+        {
+          "parent_text_id": "85eedd68-d56e-4086-bf0d-fd46cf9d0dfc",
+          "segments": [
+            "c0c1a210-ef76-4c5b-ba38-8ef8b0f1e527"
+          ]
+        },
+        {
+          "parent_text_id": "f6d18089-518b-4720-b6dc-47c33e2df1df",
+          "segments": [
+            "5bf99e15-b9e4-478b-9b2c-0ea1034db558"
+          ]
+        },
+        {
+          "parent_text_id": "c64d4e76-94df-403b-aad5-48b79a530099",
+          "segments": [
+            "628df869-f1d2-4993-93af-b4a4df059041"
+          ]
+        }
+      ]
+    },
+    {
+      "text_id": "b2a5f75c-6c61-4c7a-a9b9-f311dab33c39",
+      "segment_id": "c2213b42-500d-4c8f-9069-62d2aef188d7",
+      "mappings": [
+        {
+          "parent_text_id": "85eedd68-d56e-4086-bf0d-fd46cf9d0dfc",
+          "segments": [
+            "88265bbd-0bc0-4d60-8a10-3152487c87ad"
+          ]
+        },
+        {
+          "parent_text_id": "f6d18089-518b-4720-b6dc-47c33e2df1df",
+          "segments": [
+            "372b3ed3-3e4d-456e-ae4a-689d48fec83a"
+          ]
+        },
+        {
+          "parent_text_id": "c64d4e76-94df-403b-aad5-48b79a530099",
+          "segments": [
+            "e1d0a89a-8007-4d59-be40-f03e6db69163"
+          ]
+        }
+      ]
+    },
+    {
+      "text_id": "b2a5f75c-6c61-4c7a-a9b9-f311dab33c39",
+      "segment_id": "3bb4df5f-5107-4471-9c19-19038e1ca031",
+      "mappings": [
+        {
+          "parent_text_id": "85eedd68-d56e-4086-bf0d-fd46cf9d0dfc",
+          "segments": [
+            "287a418b-3edc-47b4-8c78-4d49efcf9b28"
+          ]
+        },
+        {
+          "parent_text_id": "f6d18089-518b-4720-b6dc-47c33e2df1df",
+          "segments": [
+            "7d59ce6f-d090-4fa1-ac3e-2bec3204adc2"
+          ]
+        },
+        {
+          "parent_text_id": "c64d4e76-94df-403b-aad5-48b79a530099",
+          "segments": [
+            "7179152c-00a6-4e11-ad53-319fd5281e06"
+          ]
+        }
+      ]
+    },
+    {
+      "text_id": "b2a5f75c-6c61-4c7a-a9b9-f311dab33c39",
+      "segment_id": "27cb320d-c54b-4f20-8602-f10752f268a8",
+      "mappings": [
+        {
+          "parent_text_id": "85eedd68-d56e-4086-bf0d-fd46cf9d0dfc",
+          "segments": [
+            "dbf12c4c-df9b-4cda-921a-69927a290e50"
+          ]
+        },
+        {
+          "parent_text_id": "f6d18089-518b-4720-b6dc-47c33e2df1df",
+          "segments": [
+            "c34a5d7f-6013-4558-9f3a-390c1a33ca5d"
+          ]
+        },
+        {
+          "parent_text_id": "c64d4e76-94df-403b-aad5-48b79a530099",
+          "segments": [
+            "27118382-b3cc-4c07-bc51-c72b745a2f33"
+          ]
+        }
+      ]
+    },
+    {
+      "text_id": "b2a5f75c-6c61-4c7a-a9b9-f311dab33c39",
+      "segment_id": "3d045cde-f5ec-4098-aee0-f96033574101",
+      "mappings": [
+        {
+          "parent_text_id": "85eedd68-d56e-4086-bf0d-fd46cf9d0dfc",
+          "segments": [
+            "298c9e3e-9451-4767-9be0-f84724d49a6c"
+          ]
+        },
+        {
+          "parent_text_id": "f6d18089-518b-4720-b6dc-47c33e2df1df",
+          "segments": [
+            "3a3e16b9-1c29-4435-8f57-d6ae5700c22b"
+          ]
+        },
+        {
+          "parent_text_id": "c64d4e76-94df-403b-aad5-48b79a530099",
+          "segments": [
+            "47cab714-1d41-48ea-a60b-da7a2f18f1e4"
+          ]
+        }
+      ]
+    },
+    {
+      "text_id": "b2a5f75c-6c61-4c7a-a9b9-f311dab33c39",
+      "segment_id": "e956a90e-70e0-4880-8f49-b6ce976e8d2c",
+      "mappings": [
+        {
+          "parent_text_id": "85eedd68-d56e-4086-bf0d-fd46cf9d0dfc",
+          "segments": [
+            "4e5121d6-b523-4ac9-a197-67a03f7be9d7"
+          ]
+        },
+        {
+          "parent_text_id": "f6d18089-518b-4720-b6dc-47c33e2df1df",
+          "segments": [
+            "d6b23a93-8c82-4934-a58c-d76c63e70232"
+          ]
+        },
+        {
+          "parent_text_id": "c64d4e76-94df-403b-aad5-48b79a530099",
+          "segments": [
+            "9bdbf137-09ad-4f73-a3ff-4b9ee4d1b5f9"
+          ]
+        }
+      ]
+    },
+    {
+      "text_id": "b2a5f75c-6c61-4c7a-a9b9-f311dab33c39",
+      "segment_id": "e4840ba8-522f-4fb7-937f-60ddc3557e09",
+      "mappings": [
+        {
+          "parent_text_id": "85eedd68-d56e-4086-bf0d-fd46cf9d0dfc",
+          "segments": [
+            "beb14cea-bfb8-4b9d-9136-d063ca9dc68a"
+          ]
+        },
+        {
+          "parent_text_id": "f6d18089-518b-4720-b6dc-47c33e2df1df",
+          "segments": [
+            "cdb97821-150e-4468-ab61-09d08d162570"
+          ]
+        },
+        {
+          "parent_text_id": "c64d4e76-94df-403b-aad5-48b79a530099",
+          "segments": [
+            "b79986df-e49e-49f7-a9de-8ba126b3125e"
+          ]
+        }
+      ]
+    },
+    {
+      "text_id": "b2a5f75c-6c61-4c7a-a9b9-f311dab33c39",
+      "segment_id": "6c5d8b19-a68a-4ebe-ac24-39b2ff454918",
+      "mappings": [
+        {
+          "parent_text_id": "85eedd68-d56e-4086-bf0d-fd46cf9d0dfc",
+          "segments": [
+            "4a49b516-eb6d-43f3-b9b6-0311b26a5386"
+          ]
+        },
+        {
+          "parent_text_id": "f6d18089-518b-4720-b6dc-47c33e2df1df",
+          "segments": [
+            "640dd9be-ce58-4129-8dcb-91579b9aacd5"
+          ]
+        },
+        {
+          "parent_text_id": "c64d4e76-94df-403b-aad5-48b79a530099",
+          "segments": [
+            "dc8a3a37-68aa-44e3-a3fa-bc5f42a02c58"
+          ]
+        }
+      ]
+    },
+    {
+      "text_id": "b2a5f75c-6c61-4c7a-a9b9-f311dab33c39",
+      "segment_id": "c584ea92-f640-4b4e-b550-0b59c90c6611",
+      "mappings": [
+        {
+          "parent_text_id": "85eedd68-d56e-4086-bf0d-fd46cf9d0dfc",
+          "segments": [
+            "e8f1885d-6f7c-49dc-90b0-22c6b632aaf2"
+          ]
+        },
+        {
+          "parent_text_id": "f6d18089-518b-4720-b6dc-47c33e2df1df",
+          "segments": [
+            "4abb4d0b-0347-4e34-8aea-651b722536c9"
+          ]
+        },
+        {
+          "parent_text_id": "c64d4e76-94df-403b-aad5-48b79a530099",
+          "segments": [
+            "d5d44e85-f96e-4478-b792-ba0761264b29"
+          ]
+        }
+      ]
+    },
+    {
+      "text_id": "b2a5f75c-6c61-4c7a-a9b9-f311dab33c39",
+      "segment_id": "1ff746c3-2578-486c-b859-e7643452738f",
+      "mappings": [
+        {
+          "parent_text_id": "85eedd68-d56e-4086-bf0d-fd46cf9d0dfc",
+          "segments": [
+            "1325daad-6bcd-4607-9d02-6ad3e2e34299"
+          ]
+        },
+        {
+          "parent_text_id": "f6d18089-518b-4720-b6dc-47c33e2df1df",
+          "segments": [
+            "ddc66a75-c91e-4e9f-9870-16837ad33cf4"
+          ]
+        },
+        {
+          "parent_text_id": "c64d4e76-94df-403b-aad5-48b79a530099",
+          "segments": [
+            "3cb0ae25-1ba5-4d9b-8607-a039b19e351e"
+          ]
+        }
+      ]
+    }
+  ]
+}
